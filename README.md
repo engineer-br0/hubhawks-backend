@@ -1,6 +1,15 @@
 # hubhawks-backend
 
-hubhawks-backend is built using Node.js with express framework.
+hubhawks-backend is built using Node.js.
+Mongodb atlas is used as database.
+
+## Technologies used
+
+Node.js
+Express
+Mongoose
+Json web token
+Bcrypt
 
 ## Installation
 
