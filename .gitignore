@@ -1,0 +1,25 @@
+# Directories
+node_modules/
+dist/
+coverage/
+
+# Environment variables and sensitive data
+.env
+.env.local
+.env.*.local
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Log files
+*.log
+logs/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
